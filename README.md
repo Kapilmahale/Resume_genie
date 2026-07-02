@@ -9,6 +9,8 @@ generate tailored cover letters, and receive personalized career
 guidance using Large Language Models.
 
 ------------------------------------------------------------------------
+Link- https://resume-genie-i3ghpp5ou-trykapilmahale-3088s-projects.vercel.app/
+
 <img width="943" height="442" alt="image" src="https://github.com/user-attachments/assets/7bc82a3a-6d1b-4809-b0dc-b7470bd7c031" />
 
 
@@ -103,7 +105,7 @@ Resume_Genie/
 ## Clone Repository
 
 ``` bash
-git clone https://github.com/<your-username>/resume-genie.git
+git clone https://github.com/<Kapilmahale>/resume-genie.git
 cd resume-genie
 ```
 
